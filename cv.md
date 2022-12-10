@@ -20,19 +20,19 @@ function multi(a, b) {
 }
 ```
 ## __Education:__
-* __University:__Belarusian State University of Informatics and Radioelectronics
-* __Courses:__
-** HTML Academy
+* __University:__ Belarusian State University of Informatics and Radioelectronics
+* __Courses:__ 
++ HTML Academy
 
 ## __Languages:__
 * Russian
 * Belarusian
 * English
 ### __English:__
-__B1__ (I study English in the courses:
-* ("Union Jack School")[https://unionjack.by/]
+#### __B1.__ I study English in the courses:
+* [Union Jack School](https://unionjack.by/)
 * ("Lim-English")[https://lim-english.com/]
- )
+ 
 
 
 
